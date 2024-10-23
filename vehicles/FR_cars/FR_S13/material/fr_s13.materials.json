@@ -1,0 +1,515 @@
+{
+  "FR_S13": {
+    "name": "FR_S13",
+    "mapTo": "FR_S13",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_BN": {
+    "name": "FR_S13_BN",
+    "mapTo": "FR_S13_BN",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_BN_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_RB1": {
+    "name": "FR_S13_RB1",
+    "mapTo": "FR_S13_RB1",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_RB1_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_RB2": {
+    "name": "FR_S13_RB2",
+    "mapTo": "FR_S13_RB2",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_RB2_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_TBO": {
+    "name": "FR_S13_TBO",
+    "mapTo": "FR_S13_TBO",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_TBO_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_SM": {
+    "name": "FR_S13_SM",
+    "mapTo": "FR_S13_SM",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_SM_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_ORL": {
+    "name": "FR_S13_ORL",
+    "mapTo": "FR_S13_ORL",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_ORL_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_326": {
+    "name": "FR_S13_326",
+    "mapTo": "FR_S13_326",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_326_b.color.dds",
+        "colorPaletteMap": "/vehicles/common/nullcolormaskR.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/common/nullcolormaskR.dds",
+        "roughnessMap": "/vehicles/common/nullcolormaskR.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "dynamicCubemap": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_glass": {
+    "name": "FR_S13_glass",
+    "mapTo": "FR_S13_glass",
+    "class": "Material",
+    "Stages": [
+      {
+        "ambientOcclusionMap": "/vehicles/FR_cars/FR_S13/FR_S13_glass_m.dds",
+        "baseColorFactor": [
+          0.547515988,
+          0.547515988,
+          0.547515988,
+          1
+        ],
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_glass_b.dds",
+        "metallicFactor": 1,
+        "metallicMap": "/vehicles/FR_cars/FR_S13/FR_S13_glass_m.dds",
+        "normalMap": "/vehicles/common/null_n.dds",
+        "opacityMap": "/vehicles/FR_cars/FR_S13/FR_S13_glass_o.dds",
+        "roughnessMap": "/vehicles/FR_cars/FR_S13/FR_S13_glass_r.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "invertBackFaceNormals": true,
+    "subSurfacaae0": "0",
+    "translucent": true,
+    "version": 1.5
+  },
+  "FR_S13_interior": {
+    "name": "FR_S13_interior",
+    "mapTo": "FR_S13_interior",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_interior_b.color.dds",
+        "metallicFactor": 0.305000007,
+        "metallicMap": "/vehicles/common/null.dds",
+        "roughnessMap": "/vehicles/common/null.dds"
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "doubleSided": true,
+    "invertBackFaceNormals": true,
+    "version": 1.5
+  },
+  "FR_S13_light": {
+    "name": "FR_S13_light",
+    "mapTo": "FR_S13_light",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_light_b.color.dds",
+        "metallicMap": "/vehicles/common/null.dds",
+        "roughnessMap": "/vehicles/common/null.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_light_on": {
+    "name": "FR_S13_light_on",
+    "mapTo": "FR_S13_light_on",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_light_b.color.dds",
+        "diffuseMapUseUV": 1,
+        "emissiveFactor": [
+          0.8,
+          0.8,
+          0.8
+        ],
+        "emissiveMap": "/vehicles/FR_cars/FR_S13/FR_S13_light_b.color.dds",
+        "emissiveMapUseUV": 1,
+        "metallicMap": "/vehicles/common/null.dds",
+        "roughnessMap": "/vehicles/common/null.dds"
+      },
+      {
+        "baseColorFactor": null,
+        "diffuseMapUseUV": null,
+        "emissiveFactor": null,
+        "emissiveMapUseUV": null
+      },
+      {
+        "baseColorFactor": null,
+        "diffuseMapUseUV": null,
+        "emissiveFactor": null,
+        "emissiveMapUseUV": null
+      },
+      {
+        "baseColorFactor": null,
+        "diffuseMapUseUV": null,
+        "emissiveFactor": null,
+        "emissiveMapUseUV": null
+      }
+    ],
+    "doubleSided": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_light_on_intense": {
+    "name": "FR_S13_light_on_intense",
+    "mapTo": "FR_S13_light_on_intense",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorFactor": [
+          1.5,
+          1.5,
+          1.5,
+          1
+        ],
+        "baseColorMap": "/vehicles/FR_cars/FR_S13/FR_S13_light_b.color.dds",
+        "diffuseMapUseUV": 1,
+        "emissiveFactor": [
+          1.5,
+          1.5,
+          1.5
+        ],
+        "emissiveMap": "/vehicles/FR_cars/FR_S13/FR_S13_light_b.color.dds",
+        "emissiveMapUseUV": 1,
+        "metallicMap": "/vehicles/common/null.dds",
+        "roughnessMap": "/vehicles/common/null.dds"
+      },
+      {
+        "baseColorFactor": null,
+        "diffuseMapUseUV": null,
+        "emissiveFactor": null,
+        "emissiveMapUseUV": null
+      },
+      {
+        "baseColorFactor": null,
+        "diffuseMapUseUV": null,
+        "emissiveFactor": null,
+        "emissiveMapUseUV": null
+      },
+      {
+        "baseColorFactor": null,
+        "diffuseMapUseUV": null,
+        "emissiveFactor": null,
+        "emissiveMapUseUV": null
+      }
+    ],
+    "doubleSided": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_S13_lowbeam": {
+    "name": "FR_S13_lowbeam",
+    "mapTo": "FR_S13_lowbeam",
+    "class": "Material",
+    "Stages": [
+      {
+        "diffuseColor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "FR_S13_highbeam": {
+    "name": "FR_S13_highbeam",
+    "mapTo": "FR_S13_highbeam",
+    "class": "Material",
+    "Stages": [
+      {
+        "diffuseColor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+      },
+      {
+      },
+      {
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "FR_S13_reverse": {
+    "name": "FR_S13_reverse",
+    "mapTo": "FR_S13_reverse",
+    "class": "Material",
+    "Stages": [
+      {
+        "diffuseColor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "FR_S13_signal_L": {
+    "name": "FR_S13_signal_L",
+    "mapTo": "FR_S13_signal_L",
+    "class": "Material",
+    "Stages": [
+      {
+        "diffuseColor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "FR_S13_signal_R": {
+    "name": "FR_S13_signal_R",
+    "mapTo": "FR_S13_signal_R",
+    "class": "Material",
+    "Stages": [
+      {
+        "diffuseColor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "FR_S13_taillight": {
+    "name": "FR_S13_taillight",
+    "mapTo": "FR_S13_taillight",
+    "class": "Material",
+    "Stages": [
+      {
+        "diffuseColor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  }
+}

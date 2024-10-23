@@ -1,0 +1,65 @@
+{
+"FR_cars_enginemounts": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Engine Mounts",
+        "value":500,
+    },
+    "slotType" : "FR_cars_enginemounts",
+    "beams": [
+          ["id1:", "id2:"],
+
+          //engine solid mounts
+          {"optional":true},
+          {"deformLimitExpansion":""},
+          {"beamPrecompression":1, "beamType":"|NORMAL", "beamLongBound":1.0, "beamShortBound":1.0},
+          {"beamSpring":4001000,"beamDamp":200},
+          {"beamDeform":50000,"beamStrength":150000},
+          {"dampCutoffHz":500},
+
+          {"breakGroup":"enginemount_R"},
+          ["em1r", "fx3r"],
+          ["em1r", "fx4r"],
+          ["em1r", "fx6r"],
+          ["em1r", "fx3l"],
+          ["em1r", "fx4l"],
+          ["em1r", "fx6l"],
+
+          {"breakGroup":"enginemount_L"},
+          ["em1l", "fx3l"],
+          ["em1l", "fx4l"],
+          ["em1l", "fx6l"],
+          ["em1l", "fx3r"],
+          ["em1l", "fx4r"],
+          ["em1l", "fx6r"],
+
+          //transmission mount
+          {"beamSpring":3001000,"beamDamp":200},
+          {"beamDeform":70000, "beamStrength":250000},
+
+          {"breakGroup":"transmissionmount"},
+          ["tra1", "f7r"],
+          ["tra1", "f7l"],
+          ["tra1", "f2r"],
+          ["tra1", "f2l"],
+          ["tra1", "f1l"],
+          ["tra1", "f1r"],
+          ["tra1", "f5l"],
+          ["tra1", "f5r"],
+          {"boundZone":""},
+          {"breakGroup":""},
+
+          //damper
+          {"beamDeform":15000,"beamStrength":60000},
+          {"beamSpring":51000,"beamDamp":1000},
+          ["e3l", "f12rr"],
+          ["e4l", "f12rr"],
+          ["e4r", "f12ll"],
+          ["e3r", "f12ll"],
+          {"dampCutoffHz":""},
+          {"optional":false},
+
+          {"beamPrecompression":1, "beamType":"|NORMAL", "beamLongBound":1.0, "beamShortBound":1.0},
+    ],
+},
+}

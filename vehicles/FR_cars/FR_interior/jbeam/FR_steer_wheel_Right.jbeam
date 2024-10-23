@@ -1,0 +1,223 @@
+{
+"fr_steer_r_326": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"326 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_326_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_a1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"A1 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_a1_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_a2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"A2 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_a2_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_a3": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"A3 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_a3_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_a4": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"A4 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_a4_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_b1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"B1 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_b1_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_b2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"B2 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_b2_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_b3": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"B3 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_b3_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_b4": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"B4 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_b4_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_c1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"C1 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_c1_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_crg": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"CRG Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_crg_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_nrg1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"NRG V1 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_nrg1_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_nrg2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"NRG V2 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_nrg2_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_nrg3": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"NRG V3 Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_nrg3_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_nrg_fw": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"NRG FW Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_nrg_fw_R", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_nrg_mf": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"NRG MF Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_nrg_mf_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+"fr_steer_r_vertex": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Vertex Steering Wheel",
+        "value":150,
+    },
+    "slotType" : "fr_steer_r",
+    "props": [
+        ["func",     "mesh",        "idRef:", "idX:", "idY:", "baseRotation",            "rotation",            "translation",         "min", "max", "offset", "multiplier"],
+        //steering wheel
+        ["steering", "steer_wheel_vertex_r", "stc3","stc1","stc2", {"x":0, "y":85, "z":0}, {"x":0, "y":0, "z":1}, {"x":0, "y":0, "z":0}, -1000, 1000, 0, 1, {"baseTranslation":{"x":0, "y":0, "z":0}}],
+     ],
+},
+}

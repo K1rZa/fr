@@ -1,0 +1,226 @@
+{
+"fr_s13_fenderflare_RR_ST": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"ST Rear Right Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RR",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_ST_fenderflare_RR", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8r", -0.87, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9r", -0.89, 0.7604, 0.75],
+         ["q10r", -0.86, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RL_ST": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"ST Rear Left Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RL",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_ST_fenderflare_RL", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8l", 0.87, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9l", 0.89, 0.7604, 0.75],
+         ["q10l", 0.86, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RR_BN": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"BN Rear Right Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RR",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_BN_fenderflare_RR", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8r", -0.86, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9r", -0.86, 0.7604, 0.72],
+         ["q10r", -0.85, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RL_BN": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"BN Rear Left Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RL",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_BN_fenderflare_RL", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8l", 0.86, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9l", 0.86, 0.7604, 0.72],
+         ["q10l", 0.85, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RR_RB2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"RB V2 Rear Right Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RR",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_RB2_fenderflare_RR", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8r", -0.86, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9r", -0.86, 0.7604, 0.72],
+         ["q10r", -0.85, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RL_RB2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"RB V2 Rear Left Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RL",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_RB2_fenderflare_RL", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8l", 0.86, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9l", 0.86, 0.7604, 0.72],
+         ["q10l", 0.85, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RR_RB1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"RB V1 Rear Right Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RR",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_RB1_fenderflare_RR", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8r", -0.86, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9r", -0.86, 0.7604, 0.72],
+         ["q10r", -0.85, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+"fr_s13_fenderflare_RL_RB1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"RB V1 Rear Left Fender Flare",
+        "value":50,
+    },
+    "slotType" : "fr_s13_fenderflare_RL",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["FR_S13_RB1_fenderflare_RL", ["FR_cars_body"]],
+    ],
+    "nodes": [
+         ["id", "posX", "posY", "posZ"],
+         {"frictionCoef":0.5},
+         {"nodeMaterial":"|NM_METAL"},
+         {"collision":true},
+         {"selfCollision":true},
+
+         //--BODYWORK--
+         //quarter panel
+         {"nodeWeight":2.0},
+         {"group":"FR_cars_body"},
+         ["q8l", 0.86, 0.4982, 0.5648, {"nodeWeight":4.0}],
+         ["q9l", 0.86, 0.7604, 0.72],
+         ["q10l", 0.85, 1.0578, 0.5585],
+         {"group":""},
+    ],
+},
+}

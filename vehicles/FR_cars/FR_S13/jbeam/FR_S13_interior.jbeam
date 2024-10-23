@@ -1,0 +1,20 @@
+{
+"fr_s13_interior": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Interior",
+        "value":200,
+    },
+    "slotType" : "fr_s13_interior",
+    "slots": [
+        ["type", "default", "description"],
+        ["fr_s13_dashboard","fr_s13_dashboard", "Dashboard"],
+        ["fr_seat_R","fr_seat_R_v1", "Front Right Seat", , {"nodeOffset":{"x":0.0, "y":-0.3, "z":0.0}, "pos":{"x":-0.3575,"y":0.175,"z":0.55}}],
+        ["fr_seat_L","fr_seat_L_v1", "Front Left Seat", {"nodeOffset":{"x":0.0, "y":-0.3, "z":0.0}, "pos":{"x":0.3575,"y":0.175,"z":0.55}}],
+    ],
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["FR_S13_frame", ["FR_cars_body","intcarpet_flexfix"]],
+    ],
+},
+}

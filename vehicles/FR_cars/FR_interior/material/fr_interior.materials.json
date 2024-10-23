@@ -1,0 +1,402 @@
+{
+  "FR_interior": {
+    "name": "FR_interior",
+    "mapTo": "FR_interior",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/FR_interior.png",
+        "metallicFactor": 0.4,
+        "metallicMap": "/vehicles/common/null.dds",
+        "roughnessMap": "/vehicles/common/null.dds"
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "doubleSided": true,
+    "invertBackFaceNormals": true,
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v1_red": {
+    "name": "FR_seat_trash_v1_red",
+    "mapTo": "FR_seat_trash_v1_red",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV1_red.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v1_black": {
+    "name": "FR_seat_trash_v1_black",
+    "mapTo": "FR_seat_trash_v1_black",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV1_black.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v1_blue": {
+    "name": "FR_seat_trash_v1_blue",
+    "mapTo": "FR_seat_trash_v1_blue",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV1_blue.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v1_yellow": {
+    "name": "FR_seat_trash_v1_yellow",
+    "mapTo": "FR_seat_trash_v1_yellow",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV1_yellow.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v1_zebra": {
+    "name": "FR_seat_trash_v1_zebra",
+    "mapTo": "FR_seat_trash_v1_zebra",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV1_zebra.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v2_red": {
+    "name": "FR_seat_trash_v2_red",
+    "mapTo": "FR_seat_trash_v2_red",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV2_red.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v2_yellow": {
+    "name": "FR_seat_trash_v2_yellow",
+    "mapTo": "FR_seat_trash_v2_yellow",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV2_yellow.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v2_black": {
+    "name": "FR_seat_trash_v2_black",
+    "mapTo": "FR_seat_trash_v2_black",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV2_black.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_trash_v2_pink": {
+    "name": "FR_seat_trash_v2_pink",
+    "mapTo": "FR_seat_trash_v2_pink",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/TRASHV2_pink.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v1_red": {
+    "name": "FR_seat_nrg_v1_red",
+    "mapTo": "FR_seat_nrg_v1_red",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG1_red.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v1_black": {
+    "name": "FR_seat_nrg_v1_black",
+    "mapTo": "FR_seat_nrg_v1_black",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG1_black.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v1_blue": {
+    "name": "FR_seat_nrg_v1_blue",
+    "mapTo": "FR_seat_nrg_v1_blue",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG1_blue.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v2_black": {
+    "name": "FR_seat_nrg_v2_black",
+    "mapTo": "FR_seat_nrg_v2_black",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG2_black.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v2_green": {
+    "name": "FR_seat_nrg_v2_green",
+    "mapTo": "FR_seat_nrg_v2_green",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG2_green.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v2_pink_light": {
+    "name": "FR_seat_nrg_v2_pink_light",
+    "mapTo": "FR_seat_nrg_v2_pink_light",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG2_pink_light.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v2_pink": {
+    "name": "FR_seat_nrg_v2_pink",
+    "mapTo": "FR_seat_nrg_v2_pink",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG2_pink.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  },
+  "FR_seat_nrg_v2_purple": {
+    "name": "FR_seat_nrg_v2_purple",
+    "mapTo": "FR_seat_nrg_v2_purple",
+    "class": "Material",
+    "Stages": [
+      {
+        "baseColorMap": "/vehicles/FR_cars/FR_interior/NRG2_purple.png",
+        "metallicFactor": 0.45
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      },
+      {
+        "metallicFactor": null
+      }
+    ],
+    "translucentBlendOp": "None",
+    "version": 1.5
+  }
+}

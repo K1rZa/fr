@@ -1,0 +1,28 @@
+{
+    "FR_engine": {
+        "name": "FR_engine",
+        "mapTo": "FR_engine",
+        "class": "Material",
+        "Stages": [
+          {
+            "baseColorMap": "/vehicles/FR_cars/FR_engine/FR_engine.png",
+            "metallicFactor": 0.4,
+            "metallicMap": "/vehicles/common/null.dds",
+            "roughnessMap": "/vehicles/common/null.dds"
+          },
+          {
+            "metallicFactor": null
+          },
+          {
+            "metallicFactor": null
+          },
+          {
+            "metallicFactor": null
+          }
+        ],
+        "doubleSided": true,
+        "invertBackFaceNormals": true,
+        "translucentBlendOp": "None",
+        "version": 1.5
+      }
+}

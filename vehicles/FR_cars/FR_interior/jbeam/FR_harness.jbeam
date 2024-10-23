@@ -1,0 +1,314 @@
+{
+"fr_harness_1_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 1",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_01B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_1_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 1",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_01B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_2_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 2",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_02B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_2_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 2",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_02B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_3_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 3",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_03B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_3_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 3",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_03B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_4_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 4",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_04B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_4_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness 4",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_04B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg1_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 1",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG01B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg1_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 1",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG01B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg2_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 2",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG02B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg2_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 2",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG02B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg3_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 3",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG03B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg3_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 3",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG03B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg4_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 4",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG04B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg4_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 4",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG04B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg5_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 5",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG05B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg5_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 5",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG05B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg6_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 6",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG06B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg6_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 6",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG06B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg7_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 7",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG07B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg7_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 7",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG07B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg8_R": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 8",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_R",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG08B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+"fr_harness_nrg8_L": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Harness NRG 8",
+        "value":150,
+    },
+    "slotType" : "fr_s13_harness_L",
+    "flexbodies": [
+        ["mesh", "[group]:", "nonFlexMaterials"],
+        ["Harness_NRG08B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+   ],
+},
+}

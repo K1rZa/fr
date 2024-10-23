@@ -1,0 +1,26 @@
+{
+"fr_s13_roof_stock": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Stock Roof",
+        "value":200,
+    },
+    "slotType" : "fr_s13_roof_accessory",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["FR_S13_roof_stock", ["FR_cars_body"]],
+    ],
+},
+"fr_s13_roof_sport": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Sport Roof",
+        "value":200,
+    },
+    "slotType" : "fr_s13_roof_accessory",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["FR_S13_roof_sport", ["FR_cars_body"]],
+    ],
+},
+}
