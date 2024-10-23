@@ -26,12 +26,12 @@
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
         //front running gear
-        ["jbx_subframe_a", ["pessima_subframe_F"]],
-		["jbx_subframe_b", ["bx_body"]],
+        ["jFR_cars_subframe_a", ["pessima_subframe_F"]],
+		["jFR_cars_subframe_b", ["FR_cars_body"]],
         //["pessima_brace", ["pessima_brace"]],
-        ["jbx_front_lca", ["pessima_lowerarm_F"]],
-        ["jbx_front_hub_L", ["pessima_hub_FL"]],
-		["jbx_front_hub_R", ["pessima_hub_FR"]],
+        ["jFR_cars_front_lca", ["pessima_lowerarm_F"]],
+        ["jFR_cars_front_hub_L", ["pessima_hub_FL"]],
+		["jFR_cars_front_hub_R", ["pessima_hub_FR"]],
 
     ],
     "nodes": [
@@ -72,8 +72,8 @@
          //top of shock
          //overwritten by drift coilover
          {"selfCollision":false},
-         ["fs1r", -0.53000, -1.17000, 0.78000, {"group":["pessima_body","pessima_shocktop_F","bx_strutbar"]}],
-         ["fs1l", 0.53000, -1.17000, 0.78000, {"group":["pessima_body","pessima_shocktop_F","bx_strutbar"]}],
+         ["fs1r", -0.53000, -1.17000, 0.78000, {"group":["pessima_body","pessima_shocktop_F","FR_cars_strutbar"]}],
+         ["fs1l", 0.53000, -1.17000, 0.78000, {"group":["pessima_body","pessima_shocktop_F","FR_cars_strutbar"]}],
          {"selfCollision":true},
 
          //--FRONT INDEPENDENT SUSPENSION--

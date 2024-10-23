@@ -8,7 +8,7 @@
     "slotType" : "fr_s13_dashboard",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["FR_S13_dashboard", ["bx_dash"]],
+         ["FR_S13_dashboard", ["FR_cars_dash"]],
     ],
     "slots": [
         ["type", "default", "description"],
@@ -52,7 +52,7 @@
         {"collision":true},
 
         //interior flexbody
-        {"group":"bx_dash"},
+        {"group":"FR_cars_dash"},
         {"nodeWeight":4.0},
         ["dsh1rr",-0.676,-0.6886,0.7892],
         ["dsh1r",-0.1966,-0.6886,0.8296,{"nodeWeight":3.75}],//remove some weight to be added back by the radio
@@ -70,7 +70,7 @@
         ["dsh4",0.0,0.051,0.589],
 
         //steering column
-        {"group":"bx_column"},
+        {"group":"FR_cars_column"},
         {"nodeWeight":2.0},
         ["stc1",0.3426,-0.8194,0.656],
         ["stc2",0.1767,-0.8194,0.656],

@@ -12,7 +12,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_red" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v1_red" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -22,7 +22,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -131,7 +131,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_red" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v1_red" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -141,7 +141,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -245,7 +245,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_red" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v2_red" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -255,7 +255,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -364,7 +364,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_red" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v2_red" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -374,7 +374,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -478,7 +478,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_yellow" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v2_yellow" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -488,7 +488,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -597,7 +597,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_yellow" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v2_yellow" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -607,7 +607,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -711,7 +711,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_black" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v2_black" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -721,7 +721,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -830,7 +830,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_black" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v2_black" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -840,7 +840,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -944,7 +944,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_pink" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v2_pink" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -954,7 +954,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1063,7 +1063,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v2_pink" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v2_pink" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1073,7 +1073,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1177,7 +1177,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_yellow" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v1_yellow" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1187,7 +1187,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1296,7 +1296,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_yellow" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v1_yellow" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1306,7 +1306,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1410,7 +1410,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_blue" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v1_blue" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1420,7 +1420,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1529,7 +1529,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_blue" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v1_blue" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1539,7 +1539,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1643,7 +1643,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_black" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v1_black" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1653,7 +1653,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1762,7 +1762,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_black" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v1_black" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1772,7 +1772,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1876,7 +1876,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_zebra" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_trash_v1_zebra" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -1886,7 +1886,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -1995,7 +1995,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_trash_v1_zebra" ["bx_floor","bx_seat_FR"]],
+         ["seat_trash_v1_zebra" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2005,7 +2005,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2109,7 +2109,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat1" ["bx_floor","bx_seat_FL"],[]],
+         ["seat1" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2119,7 +2119,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2228,7 +2228,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat1" ["bx_floor","bx_seat_FR"]],
+         ["seat1" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2238,7 +2238,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2342,7 +2342,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat2" ["bx_floor","bx_seat_FL"],[]],
+         ["seat2" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2352,7 +2352,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2461,7 +2461,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat2" ["bx_floor","bx_seat_FR"]],
+         ["seat2" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2471,7 +2471,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2575,7 +2575,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat3" ["bx_floor","bx_seat_FL"],[]],
+         ["seat3" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2585,7 +2585,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2694,7 +2694,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat3" ["bx_floor","bx_seat_FR"]],
+         ["seat3" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2704,7 +2704,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2808,7 +2808,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat4" ["bx_floor","bx_seat_FL"],[]],
+         ["seat4" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2818,7 +2818,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -2927,7 +2927,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat4" ["bx_floor","bx_seat_FR"]],
+         ["seat4" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -2937,7 +2937,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3041,7 +3041,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat5" ["bx_floor","bx_seat_FL"],[]],
+         ["seat5" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3051,7 +3051,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3160,7 +3160,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat5" ["bx_floor","bx_seat_FR"]],
+         ["seat5" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3170,7 +3170,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3274,7 +3274,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat6" ["bx_floor","bx_seat_FL"],[]],
+         ["seat6" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3284,7 +3284,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3393,7 +3393,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat6" ["bx_floor","bx_seat_FR"]],
+         ["seat6" ["FR_cars_floor","FR_cars_seat_FR"]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3403,7 +3403,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3507,7 +3507,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v1_1" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v1_1" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3517,7 +3517,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3626,7 +3626,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v1_1" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v1_1" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3636,7 +3636,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3740,7 +3740,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v1_2" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v1_2" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3750,7 +3750,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3859,7 +3859,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v1_2" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v1_2" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3869,7 +3869,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -3973,7 +3973,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v1_3" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v1_3" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -3983,7 +3983,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4092,7 +4092,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v1_3" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v1_3" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4102,7 +4102,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4206,7 +4206,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_1" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v2_1" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4216,7 +4216,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4325,7 +4325,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_1" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v2_1" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4335,7 +4335,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4439,7 +4439,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_2" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v2_2" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4449,7 +4449,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4558,7 +4558,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_2" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v2_2" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4568,7 +4568,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4672,7 +4672,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_3" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v2_3" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4682,7 +4682,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4791,7 +4791,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_3" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v2_3" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4801,7 +4801,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -4905,7 +4905,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_4" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v2_4" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -4915,7 +4915,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -5024,7 +5024,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_4" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v2_4" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -5034,7 +5034,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -5138,7 +5138,7 @@
     "slotType" : "fr_seat_L",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_5" ["bx_floor","bx_seat_FL"],[]],
+         ["seat_nrg_v2_5" ["FR_cars_floor","FR_cars_seat_FL"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -5148,7 +5148,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FL"},
+         {"group":"FR_cars_seat_FL"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},
@@ -5257,7 +5257,7 @@
     "slotType" : "fr_seat_R",
     "flexbodies": [
          ["mesh", "[group]:", "nonFlexMaterials"],
-         ["seat_nrg_v2_5" ["bx_floor","bx_seat_FR"],[]],
+         ["seat_nrg_v2_5" ["FR_cars_floor","FR_cars_seat_FR"],[]],
     ],
     "nodes": [
          ["id", "posX", "posY", "posZ"],
@@ -5267,7 +5267,7 @@
          {"frictionCoef":0.5},
          {"nodeMaterial":"|NM_METAL"},
          //seats flexbody
-         {"group":"bx_seat_FR"},
+         {"group":"FR_cars_seat_FR"},
          {"collision":true},
          {"selfCollision":true},
          {"nodeWeight":2.5},

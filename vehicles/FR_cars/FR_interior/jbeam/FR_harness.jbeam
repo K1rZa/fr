@@ -8,8 +8,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_01B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_01B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_1_L": {
@@ -21,8 +21,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_01B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_01B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_2_R": {
@@ -34,8 +34,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_02B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_02B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_2_L": {
@@ -47,8 +47,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_02B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_02B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_3_R": {
@@ -60,8 +60,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_03B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_03B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_3_L": {
@@ -73,8 +73,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_03B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_03B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_4_R": {
@@ -86,8 +86,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_04B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_04B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_4_L": {
@@ -99,8 +99,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_04B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_04B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg1_R": {
@@ -112,8 +112,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG01B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG01B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg1_L": {
@@ -125,8 +125,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG01B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG01B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg2_R": {
@@ -138,8 +138,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG02B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG02B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg2_L": {
@@ -151,8 +151,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG02B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG02B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg3_R": {
@@ -164,8 +164,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG03B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG03B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg3_L": {
@@ -177,8 +177,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG03B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG03B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg4_R": {
@@ -190,8 +190,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG04B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG04B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg4_L": {
@@ -203,8 +203,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG04B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG04B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg5_R": {
@@ -216,8 +216,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG05B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG05B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg5_L": {
@@ -229,8 +229,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG05B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG05B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg6_R": {
@@ -242,8 +242,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG06B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG06B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg6_L": {
@@ -255,8 +255,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG06B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG06B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg7_R": {
@@ -268,8 +268,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG07B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG07B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg7_L": {
@@ -281,8 +281,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG07B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG07B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg8_R": {
@@ -294,8 +294,8 @@
     "slotType" : "fr_s13_harness_R",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG08B" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG08B" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":-0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 "fr_harness_nrg8_L": {
@@ -307,8 +307,8 @@
     "slotType" : "fr_s13_harness_L",
     "flexbodies": [
         ["mesh", "[group]:", "nonFlexMaterials"],
-        ["Harness_NRG08B" ["bx_floor","bx_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
-        ["Harness_Bar" ["bx_floor","bx_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
+        ["Harness_NRG08B" ["FR_cars_floor","FR_cars_seat_FL"],[], {"pos":{"x":0.3575,"y":0.15,"z":0.555}}],
+        ["Harness_Bar" ["FR_cars_floor","FR_cars_seat_FR"],[], {"pos":{"x":0.0,"y":0.15,"z":0.555}}],
    ],
 },
 }
