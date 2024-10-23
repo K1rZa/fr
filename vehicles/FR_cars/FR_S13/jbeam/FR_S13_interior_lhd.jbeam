@@ -15,6 +15,7 @@
         ["soundscape_horn", "soundscape_horn_3", "Horn"],
         ["fr_steer","fr_steer_a1", "Steering Wheel"],
         ["fr_shifter","fr_shifter_M_A", "Shifter"],
+        ["fr_handbrake_L","fr_handbrake_L_A1", "Handbrake"],
     ],
     "soundscape": [
         ["name", "src"],

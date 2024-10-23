@@ -1,0 +1,236 @@
+{
+"fr_handbrake_L_A1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake A1",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_A1",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_A1_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_A1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake A1",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_A1",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_A1_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_A2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake A2",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_A2",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_A2_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_A2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake A2",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_A2",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_A2_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_B1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake B1",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_B1",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_B1_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_B1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake B1",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_B1",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_B1_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_B2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake B2",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_B2",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_B2_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_B2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake B2",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_B2",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_B2_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_C": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake C",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_C",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_C_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_C": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake C",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_C",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_C_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_D1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake D1",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_D1",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_D1_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_D1": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake D1",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_D1",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_D1_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_D2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake D2",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_D2",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_D2_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_D2": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake D2",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_D2",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_D2_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_D3": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake D3",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_D3",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_D3_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_D3": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Handbrake D3",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_D3",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_D3_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_L_hert": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Hert Handbrake",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_L",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_hert",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_hert_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+"fr_handbrake_R_hert": {
+    "information":{
+        "authors":"BeamNG",
+        "name":"Hert Handbrake",
+        "value":60,
+    },
+    "slotType" : "fr_handbrake_R",
+    "props": [
+        ["func",       "mesh",               "idRef:", "idX:", "idY:",  "baseRotation",            "rotation",               "translation",          "min", "max", "offset", "multiplier"],
+        ["parkingbrake",     "hanbrake_hert",       "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":-20, "y":0, "z":0},     {"x":0.0, "y":0.0, "z":0.0},          0, 1, 0, 1, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+        ["dummy",     "hanbrake_hert_mount",    "lsh_b1","lsh_b2","lsh_b3",          {"x":-90, "y":180, "z":0}, {"x":0, "y":0, "z":0},      {"x":0.0, "y":0.0, "z":0.0},  0, 0, 0, 0, {"baseTranslationGlobal":{"x":-0.06,"y":-0.3,"z":0.597}, "optional":true}],
+    ],
+},
+}
